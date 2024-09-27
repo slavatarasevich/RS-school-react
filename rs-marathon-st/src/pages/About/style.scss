@@ -1,0 +1,17 @@
+.about-wrapper {
+  margin: auto;
+  width: 900px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  h1 {
+    padding-left: 15px;
+    font-weight: 200;
+    color: #2c2c2c;
+    border-bottom: 1px solid #d0ecf5;
+    padding-bottom: 15px;
+    width: 600px;
+    box-shadow: 10px 5px 5px #cecece;
+    margin-bottom: 30px;
+  }
+}

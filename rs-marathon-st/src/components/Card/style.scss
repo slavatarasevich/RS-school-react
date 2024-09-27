@@ -1,0 +1,14 @@
+.card-container {
+  width: 203px;
+  background-color: antiquewhite;
+  gap: 30px;
+  h3,
+  p {
+    padding-left: 15px;
+    font-weight: 200;
+    span {
+      color: red;
+      font-weight: 400;
+    }
+  }
+}

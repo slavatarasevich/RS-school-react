@@ -1,0 +1,22 @@
+.header-wrapper {
+  width: 900px;
+  margin: auto;
+  nav {
+    width: 130px;
+    // margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    .link-active {
+      color: white;
+      background-color: #85b6c7;
+      text-decoration: none;
+    }
+    .link {
+      color: #add8e6;
+      //   background-color: #add8e6;
+      text-decoration: none;
+    }
+  }
+}
